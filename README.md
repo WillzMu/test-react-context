@@ -1,1 +1,1 @@
-Test repo using react context api from a tutorial from (Wes Bos)[https://www.youtube.com/watch?v=XLJN4JfniH4]
+Test repo using react context api from a tutorial from [Wes Bos](https://www.youtube.com/watch?v=XLJN4JfniH4)
